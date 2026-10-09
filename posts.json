@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6a6886d853c82b7a75339183",
+    "user_id": "6a610e477cf7a959f7f41a42",
+    "title": "introduction to no sql",
+    "content": "lorem ipsum",
+    "created_at": "2026-07-28 10:39:20.096000",
+    "updated_at": "2026-07-28 10:39:20.096000"
+  },
+  {
+    "id": "6a688a2553c82b7a75339184",
+    "user_id": "6a6126427cf7a959f7f41a43",
+    "title": "MongoDB Basics",
+    "content": "Lorem ipsum",
+    "created_at": "2026-07-28 10:53:25.199000",
+    "updated_at": "2026-07-28 10:53:25.199000"
+  },
+  {
+    "id": "6a688a2553c82b7a75339185",
+    "user_id": "6a6126427cf7a959f7f41a44",
+    "title": "Understanding Documents",
+    "content": "Lorem ipsum",
+    "created_at": "2026-07-28 10:53:25.199000",
+    "updated_at": "2026-07-28 10:53:25.199000"
+  },
+  {
+    "id": "6a688a2553c82b7a75339186",
+    "user_id": "6a6126427cf7a959f7f41a45",
+    "title": "Collections and Queries",
+    "content": "Lorem ipsum",
+    "created_at": "2026-07-28 10:53:25.199000",
+    "updated_at": "2026-07-28 10:53:25.199000"
+  },
+  {
+    "id": "6a688a2553c82b7a75339187",
+    "user_id": "6a61e12e7cf7a959f7f41a46",
+    "title": "MongoDB Aggregation",
+    "content": "Lorem ipsum",
+    "created_at": "2026-07-28 10:53:25.199000",
+    "updated_at": "2026-07-28 10:53:25.199000"
+  },
+  {
+    "id": "6a68a7b053c82b7a7533918d",
+    "user_id": "6a6126427cf7a959f7f41a43",
+    "title": "What is Lorem Ipsum?",
+    "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software like Aldus PageMaker and Microsoft Word including versions of Lorem Ipsum.",
+    "created_at": "2026-07-28 12:59:28.027000",
+    "updated_at": "2026-07-28 12:59:28.027000"
+  }
+]
