@@ -11,9 +11,9 @@ import pandas as pd
 pg_conn = psycopg2.connect(
     host="localhost",
     port="5432",
-    database="raiseup",
+    database="",
     user="postgres",
-    password="5591"
+    password=""
 )
 
 pg_cursor = pg_conn.cursor()
